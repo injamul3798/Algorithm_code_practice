@@ -29,10 +29,10 @@ void insertion(int A[],int n){
 
 int main(){
      int n,i;
-     scanf("%d",&n);
+     cin>>n;
      int A[n];
     for(i=0;i<n;i++){
-       scanf("%d",&A[i]);
+       cin>>A[i];
     }
     insertion(A,n);
 }
