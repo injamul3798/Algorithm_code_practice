@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 /*
+TOPIC: Bruce Force (searching & sorting )
+code by:
 Md. Inajmul Haque
 BSc in CSE
 */
