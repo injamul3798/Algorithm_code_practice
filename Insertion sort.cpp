@@ -6,6 +6,7 @@ code by:
 Md. Inajmul Haque
 BSc in CSE
 */
+
 void insertion(int A[],int n){
     int i,j;
     int key;
@@ -23,6 +24,8 @@ void insertion(int A[],int n){
       cout<<A[i]<<" ";
     }
 }
+
+//Time complexity = O(n*n)=O(n^2)
 
 int main(){
      int n,i;
